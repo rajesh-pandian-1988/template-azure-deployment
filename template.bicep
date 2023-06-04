@@ -1,5 +1,5 @@
 @description('Specifies the location for resources.')
-param location string = 'westeurope'
+param location string = 'westus'
 
 param storageAccounts_rajeshstore05282024_name string = 'bicepstore0304'
 
